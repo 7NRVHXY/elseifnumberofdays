@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\elseifnumberofdays\bin\Debug\net6.0\elseifnumberofdays.exe
+C:\Users\HP\source\repos\elseifnumberofdays\bin\Debug\net6.0\elseifnumberofdays.deps.json
+C:\Users\HP\source\repos\elseifnumberofdays\bin\Debug\net6.0\elseifnumberofdays.runtimeconfig.json
+C:\Users\HP\source\repos\elseifnumberofdays\bin\Debug\net6.0\elseifnumberofdays.dll
+C:\Users\HP\source\repos\elseifnumberofdays\bin\Debug\net6.0\elseifnumberofdays.pdb
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.AssemblyInfo.cs
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.dll
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\refint\elseifnumberofdays.dll
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.pdb
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\elseifnumberofdays.genruntimeconfig.cache
+C:\Users\HP\source\repos\elseifnumberofdays\obj\Debug\net6.0\ref\elseifnumberofdays.dll
